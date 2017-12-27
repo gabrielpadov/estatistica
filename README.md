@@ -1,7 +1,7 @@
 # estatistica
 Tabela de frequências com dados agrupados em classes 
 
-Algoritmo recebe arquivo .txt com amostragem de dados brutos. A ocorrencia de leituras é feita gerando uma tabela de frequência simples.
+Algoritmo recebe arquivo .txt com amostragem de dados brutos. A leitura do arquivo gera uma tabela de frequência simples.
 A partir da tabela de frequência simples, o algoritmo cria e imprime uma tabela de Tabela de frequências com dados agrupados em classes.
 
 - Uso de leitura e escrita em arquivo
